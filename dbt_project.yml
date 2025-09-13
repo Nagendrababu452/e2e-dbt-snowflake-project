@@ -40,4 +40,5 @@ models:
     # Applies to all files under models/example/
     common:
       +materialized: table
+
       
